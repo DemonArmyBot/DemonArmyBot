@@ -12,24 +12,6 @@
 
 </div>
 
-<!-- Custom Animations -->
-<style>
-@keyframes glowPulse {
-  0% { box-shadow: 0 0 10px rgba(255,0,0,0.5); }
-  50% { box-shadow: 0 0 40px rgba(255,69,0,1), 0 0 60px rgba(255,0,0,0.8); }
-  100% { box-shadow: 0 0 10px rgba(255,0,0,0.5); }
-}
-@keyframes glitch {
-  0% { transform: skew(0deg, 0deg); opacity: 1; }
-  95% { transform: skew(0deg, 0deg); opacity: 1; }
-  96% { transform: skew(2deg, 1deg); opacity: 0.8; }
-  97% { transform: skew(-2deg, -1deg); opacity: 0.9; }
-  98% { transform: skew(1deg, 2deg); opacity: 0.8; }
-  100% { transform: skew(0deg, 0deg); opacity: 1; }
-}
-</style>
-
----
 
 ## 🔥 About Me (The Dark Edition)
 
