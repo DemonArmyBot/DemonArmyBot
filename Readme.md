@@ -137,8 +137,6 @@
 
 <br/><br/>
 
-<!-- Top Languages (the cursed ones) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonArmyBot&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff4500&text_color=ffaa00" />
 
 </div>
 
